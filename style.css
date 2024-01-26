@@ -1,0 +1,48 @@
+*{
+   margin: 0; 
+   padding: 0;
+}
+
+body{
+    background-color: #548687;
+    text-align: center;
+}
+.container{
+    height: 70vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+}
+.game{
+    height: 60vmin;
+    width: 60vh;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+    gap: 1.5vmin;    
+
+}
+
+.box{
+    height: 18vmin;
+    width: 18vmin;
+}
+
+
+
+button#resetButton {
+    background-color: #32e739; /* Green background color */
+    color: white; /* White text color */
+    padding: 10px 20px; /* Add some padding */
+    font-size: 16px; /* Set the font size */
+    cursor: pointer; /* Add a pointer cursor on hover */
+    border: none; /* Remove border */
+    border-radius: 5px; /* Add border radius */
+    margin-top: 20px; /* Add some margin to separate from the game board */
+}
+
+button#resetButton:hover {
+    background-color: #45a049; /* Darker green color on hover */
+}
