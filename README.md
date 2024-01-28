@@ -31,7 +31,7 @@ This project is a basic implementation of the classic Tic Tac Toe game. It allow
 
 ## Demo
 
-[![Tic Tac Toe Demo]](https://example.com)
+[![Tic Tac Toe Demo]]()
 
 ## Installation
 
