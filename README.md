@@ -25,6 +25,7 @@ This project is a basic implementation of the classic Tic Tac Toe game. It allow
 
 ## How to Play
 
+
 1. Open the game in a web browser by deploying the `index.html`, `style.css` and `script.js` on netlify or any third party website.
 2. Two players take turns clicking on empty cells to mark them with 'X' or 'O'.
 3. The game automatically detects a winner when one player achieves three marks in a row, column, or diagonal.
